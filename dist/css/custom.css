@@ -1,0 +1,55 @@
+.btn-primary {
+    color: #ffffff;
+    background-color: #3ec380;
+    border-color: #2c935f;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
+    color: #ffffff;
+    background-color: #2c935f;
+    border-color: #2c935f;
+}
+
+.btn-info:hover, .btn-info:focus, .btn-info:active, .btn-info.active, .open .dropdown-toggle.btn-info {
+    color: #ffffff;
+    background-color: #2c935f;
+    border-color: #2c935f;
+}
+
+.btn-info {
+    color: #ffffff;
+    background-color: #3ec380;
+    border-color: #2c935f;
+}
+
+
+.btn-default {
+    color: #3ec380;
+    background-color: #FFF;
+    border-color: #CCC;
+}
+
+.btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open .dropdown-toggle.btn-default {
+    color: #3ec380;
+    background-color: #EBEBEB;
+    border-color: #ADADAD;
+}
+
+
+.page-header, .h1 {
+    color: #3ec380;
+}
+
+.navbar-default .navbar-brand {
+    color: #3ec380;   
+}
+
+.sidebar ul li a.active {
+    background-color: #3ec380;
+    color: #ffffff;
+}
+/*.btn-default {
+    color: #ffffff;
+    background-color: #fb8a86;
+    border-color: #fc342d;
+}*/
